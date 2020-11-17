@@ -1,0 +1,75 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: #0c3c26;
+    background-color: #f7f7f7;
+}
+
+::selection{
+    background: #C9F0DD;
+}
+#mainNav{
+    background-color: #0C4B33;
+}
+.shadow {
+    box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.1);
+}
+.btn-danger {
+    color: #fff;
+    background-color: #f00000;
+    border-color: #dc281e;
+}
+.masthead {
+    background-color: #fff;
+    background-position: center;
+    background-size: 1349px 284px;
+    height: auto;
+    padding-bottom: 150px;
+    box-shadow: 0 16px 48px #E3E7EB;
+    padding-top: 10px;
+}
+h3{
+    font-size: 60px;
+    font-weight: 900;
+    color: #0c3c26;
+    text-align: center;
+}
+p.heading-text{
+    color: #50be94;
+    text-align: center;
+}
+.head_text {
+    color: white;
+}
+
+.card {
+    box-shadow: 0 16px 48px #E3E7EB;
+}
+
+a.button{
+    background-color: #44B78B;
+    color: #fff;
+}
+
+.footer{
+    background-color: #0c4b33;
+    margin-top: 20px;
+    padding: 10px 0 30px;
+    color: #fff;
+    bottom: 0;
+}
+
+i{
+    color: #fff;
+    margin: 0 4px;
+}
+
+pre  {
+  background-color: #f7f7f7;
+  border: 1px solid #ebebeb;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 16px 21px;
+}
+
